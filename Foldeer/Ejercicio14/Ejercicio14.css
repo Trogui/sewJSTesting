@@ -1,0 +1,112 @@
+canvas {
+  grid-area: canvas;
+}
+section:first-of-type {
+  grid-area: sectionShape;
+}
+
+section:last-of-type {
+  grid-area: sectionColors;
+}
+input[value = "DIBUJAR"] {
+  grid-area: dibujar;
+}
+input :last-of-type [type = "button"]  {
+  grid-area: fullscreen;
+}
+h2 {
+  grid-area: header;
+}
+
+body{
+  background-color: #f2fedc;
+  color: #3c3c2c;
+}
+
+
+main {
+  display: grid;
+  
+
+  grid-template-columns: auto; 
+  grid-template-rows: auto;
+
+  grid-template-areas: 
+    "header header header header header header"
+    "sectionShape canvas canvas canvas canvas sectionColors"
+    "sectionShape canvas canvas canvas canvas sectionColors"
+    "sectionShape canvas canvas canvas canvas sectionColors"
+    "sectionShape canvas canvas canvas canvas sectionColors"
+    "dibujar dibujar dibujar dibujar dibujar fullscreen";
+
+  gap: 2em;
+
+  padding: 1em;
+
+  border: 0.2em solid black;
+
+  background-color: #FFFFEA;
+  color: #3c3c2c;
+
+}
+
+main:fullscreen {
+  background-color: #FFFFEA;
+  color: #3c3c2c;
+  
+}
+
+main:fullscreen h2 {
+  font-size: 4em;
+}
+
+canvas {
+  width: 100%;
+  height: 100%;
+  border: 0.15em solid #3c3c2c;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+header{
+  text-align: center;
+  font-size: 1.5em;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  justify-content: space-evenly;
+}
+
+input, input::file-selector-button{
+  background-color: #f2fedc;
+  color: #3c3c2c;
+
+  
+}
+input::file-selector-button {
+  border: 0.05em solid #3c3c2c;
+}
+
+main input{
+  font-size: 3em;
+  height: 100%;
+
+  background-color: #FFFFEA;
+  color: #3c3c2c;
+
+  border: 0.05em solid #3c3c2c;
+}
+
+
+
+
+
+
+input[type = "file"]{
+  font-size: 1.5em;
+}

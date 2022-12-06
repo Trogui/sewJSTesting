@@ -1,0 +1,25 @@
+/************
+/* Autor: Alberto Guerra Rodas
+/* Descripción: Plantilla de estilos
+/************/
+
+body {
+    color: #DDC9B4;
+    background-color: #5E4F3F;
+    padding: 1em;
+}
+
+h1 {
+    text-align: center;
+}
+
+input, input::file-selector-button {
+  font-size: 1em;
+  color: #DDC9B4;
+  background-color: #5E4F3F;
+  border: 0.1em solid #DDC9B4;
+  padding: 0.5em;
+}
+
+
+

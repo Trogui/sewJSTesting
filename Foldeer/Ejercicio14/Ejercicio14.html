@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+<head>
+
+    <meta name ="author" content ="Alberto Guerra Rodas" />
+    <meta name ="description" content ="Ejercicio 14 practica js" />
+    <meta name ="keywords" content ="jquery, javascript" />
+    
+    
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" type="text/css" href="Ejercicio14.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="Ejercicio14.js"></script>
+
+    <title>Canvas de texto</title>
+</head>
+
+<body>
+    <header><h1>Canvas Custom</h1></header>
+
+    <main>
+    <h2>Figura:  -  Color:  </h2>
+    
+    <section>
+        <h3>Formas:</h3>
+    <input type="button" value = "▲" onclick="cv.triangulo()">
+    <input type="button" value = "▅" onclick="cv.rectangulo()">
+    <input type="button" value = "◯" onclick="cv.circulo()">
+    <input type="button" value = "<3" onclick="cv.corazon()">
+    </section>
+    <canvas></canvas>
+    <section>
+        <h3>Colores:</h3>
+    <input type="button" value = "R" onclick="cv.rojo()">
+    <input type="button" value = "G" onclick="cv.verde()">
+    <input type="button" value = "B" onclick="cv.azul()">
+    </section>
+
+    <input type="button" value = "DIBUJAR" onclick="cv.dibujar()">
+    <input type="button" value = "&#x26F6;" onclick="cv.canvasFullScreen()">
+    </main>
+    <input type="file" onchange="cv.leerArchivo()">
+    <p> Si quieres dibujar con un color custom, solo tendrás que subir un archivo .json con el formato { "color": 
+        "#XXXXXX" } siendo las X el color en hexadecimal</p>
+    
+    
+
+    
+</body>
+
+</html>

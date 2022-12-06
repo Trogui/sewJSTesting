@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": " KML generado ",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de nacimiento de Mikel Ferrero Garcia " }, "geometry": { "type": "Point", "coordinates": [ 13.6493, 47.5622 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de residencia de Mikel Ferrero Garcia " }, "geometry": { "type": "Point", "coordinates": [ 32.8597, 39.9334 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de nacimiento de Andres Montemayor Ballester " }, "geometry": { "type": "Point", "coordinates": [ -122.6784, 45.5152 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de residencia de Andres Montemayor Ballester " }, "geometry": { "type": "Point", "coordinates": [ -112.074, 33.4484 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de nacimiento de Carles Navarra Sanchez " }, "geometry": { "type": "Point", "coordinates": [ 12.4964, 41.9028 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de residencia de Carles Navarra Sanchez " }, "geometry": { "type": "Point", "coordinates": [ 60.6454, 56.8431 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de nacimiento de Ivan Conejero Vargas " }, "geometry": { "type": "Point", "coordinates": [ -118.2437, 34.0522 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de residencia de Ivan Conejero Vargas " }, "geometry": { "type": "Point", "coordinates": [ 74.5698, 42.8746 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de nacimiento de Ana Maria Caballero Guerra " }, "geometry": { "type": "Point", "coordinates": [ -68.1193, -16.4897 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de residencia de Ana Maria Caballero Guerra " }, "geometry": { "type": "Point", "coordinates": [ 25.2797, 54.6872 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de nacimiento de Julieta Orellana Juanes " }, "geometry": { "type": "Point", "coordinates": [ -82.3666, 23.1136 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de residencia de Julieta Orellana Juanes " }, "geometry": { "type": "Point", "coordinates": [ -86.7816, 36.1627 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de nacimiento de Naia Valenzuela Montero " }, "geometry": { "type": "Point", "coordinates": [ 38.9251, 15.3229 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de residencia de Naia Valenzuela Montero " }, "geometry": { "type": "Point", "coordinates": [ 9.19, 45.4642 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de nacimiento de Aitor Navarra Gonzalez " }, "geometry": { "type": "Point", "coordinates": [ -77.0428, -12.0464 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de residencia de Aitor Navarra Gonzalez " }, "geometry": { "type": "Point", "coordinates": [ 11.4041, 47.2692 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de nacimiento de Shirinov Iosif Denisovich " }, "geometry": { "type": "Point", "coordinates": [ 28.8638, 47.0105 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de residencia de Shirinov Iosif Denisovich " }, "geometry": { "type": "Point", "coordinates": [ -21.9426, 64.1466 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de nacimiento de Edwin Harvey Arenas " }, "geometry": { "type": "Point", "coordinates": [ -3.1883, 55.9533 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de residencia de Edwin Harvey Arenas " }, "geometry": { "type": "Point", "coordinates": [ 77.209, 28.6139 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de nacimiento de Juan Guarnizo Hernandez " }, "geometry": { "type": "Point", "coordinates": [ -0.4907, 38.346 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de residencia de Juan Guarnizo Hernandez " }, "geometry": { "type": "Point", "coordinates": [ 47.9774, 29.3759 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de nacimiento de Thomas Abell Owle " }, "geometry": { "type": "Point", "coordinates": [ 100.5018, 13.7563 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de residencia de Thomas Abell Owle " }, "geometry": { "type": "Point", "coordinates": [ 87.6298, 41.8781 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de nacimiento de Pedro Menendez Menendez " }, "geometry": { "type": "Point", "coordinates": [ -0.4907, 38.346 ] } },
+{ "type": "Feature", "properties": { "Name": " Marca de posicion simple ", "description": " Lugar de residencia de Pedro Menendez Menendez " }, "geometry": { "type": "Point", "coordinates": [ 77.3504, 25.0443 ] } }
+]
+}

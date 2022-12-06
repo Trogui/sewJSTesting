@@ -1,0 +1,146 @@
+/************
+/* Autor: Alberto Guerra Rodas
+/* Descripción: Hoja de estilos de la práctica 1
+/************/
+
+
+/* 0-0-1 */
+body {
+  color: #e0fbfc;
+  background-color: #2f4858;
+}
+
+input {
+  color: #e0fbfc;
+  background-color: #165864;
+}
+
+/* 0-0-1 */
+header {
+  font-size: 2em;
+}
+
+/* 0-0-1 */
+nav,
+footer {
+  color: #e0fbfc;
+  background-color: #02706c;
+}
+/* 0-0-2 */
+nav a {
+  font-size: 1.5em;
+  text-decoration: none;
+}
+
+/* 0-0-1 */
+aside,
+header,
+main {
+  color: #e0fbfc;
+  background-color: #165864;
+}
+/* 0-0-2 */
+main dt {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+
+/* 0-0-1 */
+
+
+/* 0-0-2 */
+audio,
+video,
+img,
+footer,
+aside,
+main,
+td,
+th,
+nav a,
+header {
+  border: 0.03em solid #caf0f8;
+}
+
+/* 0-0-1 */
+video,
+img {
+  max-width: 100%;
+}
+
+/* 0-0-1 */
+textarea {
+  min-width: 40%;
+  min-height: 10em;
+  max-width: 80em;
+  max-height: 30em;
+}
+
+/* 0-0-1 */
+body {
+  display: grid;
+
+  grid-template-areas:
+    "header header header header header"
+    "menu menu menu menu menu"
+    "main main main main right"
+    "main main main main right"
+    "main main main main right"
+    "main main main main right"
+    "main main main main right"
+    "footer footer footer footer footer";
+
+  margin: 1%;
+}
+
+/* 0-0-1 */
+nav {
+  grid-area: menu;
+  display: flex;
+  flex-direction: row;
+}
+
+/* 0-0-1 */
+aside {
+  grid-area: right;
+}
+/* 0-0-2 */
+nav a {
+  flex-grow: 1;
+  text-align: center;
+}
+
+/* 0-0-1 */
+main {
+  grid-area: main;
+}
+/* 0-0-1 */
+dd {
+  padding: 0.5em;
+}
+/* 0-0-1 */
+li {
+  padding: 0.15em;
+}
+/* 0-0-1 */
+header {
+  text-align: center;
+  grid-area: header;
+}
+
+/* 0-0-1 */
+aside,
+footer,
+td,
+main,
+section {
+  padding: 1em;
+}
+
+/* 0-0-1 */
+footer {
+  display: flex;
+  flex-direction: column;
+  grid-area: footer;
+}

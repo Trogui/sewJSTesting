@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  flex-wrap: wrap;
+}
+
+main {
+  width: 95%;
+  height: 50vw;
+  border: 0.2em solid #ddc9b4;
+  margin: 2em;
+}
+
+header {
+  text-align: center;
+}
+
+body {
+  color: #ddc9b4;
+  background-color: #5e4f3f;
+}
+
+input {
+  font-size: 1.3em;
+  min-width: 13em;
+  color: #ddc9b4;
+  background-color: #5e4f3f;
+  border: 0.1em solid #ddc9b4;
+  padding: 0.5em;
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: stretch;
+  flex-wrap: wrap;
+  gap: 2em;
+}

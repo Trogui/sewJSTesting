@@ -1,0 +1,188 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name> KML generado </name>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de nacimiento de Mikel Ferrero Garcia </description>
+<Point>
+<coordinates>13.6493,47.5622,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de residencia de Mikel Ferrero Garcia </description>
+<Point>
+<coordinates>32.8597,39.9334,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de nacimiento de Andres Montemayor Ballester </description>
+<Point>
+<coordinates>-122.6784,45.5152,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de residencia de Andres Montemayor Ballester </description>
+<Point>
+<coordinates>-112.0740,33.4484,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de nacimiento de Carles Navarra Sanchez </description>
+<Point>
+<coordinates>12.4964,41.9028,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de residencia de Carles Navarra Sanchez </description>
+<Point>
+<coordinates>60.6454,56.8431,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de nacimiento de Ivan Conejero Vargas </description>
+<Point>
+<coordinates>-118.2437,34.0522,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de residencia de Ivan Conejero Vargas </description>
+<Point>
+<coordinates>74.5698,42.8746,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de nacimiento de Ana Maria Caballero Guerra </description>
+<Point>
+<coordinates>-68.1193,-16.4897,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de residencia de Ana Maria Caballero Guerra </description>
+<Point>
+<coordinates>25.2797,54.6872,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de nacimiento de Julieta Orellana Juanes </description>
+<Point>
+<coordinates>-82.3666,23.1136,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de residencia de Julieta Orellana Juanes </description>
+<Point>
+<coordinates>-86.7816,36.1627,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de nacimiento de Naia Valenzuela Montero </description>
+<Point>
+<coordinates>38.9251,15.3229,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de residencia de Naia Valenzuela Montero </description>
+<Point>
+<coordinates>9.1900,45.4642,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de nacimiento de Aitor Navarra Gonzalez </description>
+<Point>
+<coordinates>-77.0428,-12.0464,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de residencia de Aitor Navarra Gonzalez </description>
+<Point>
+<coordinates>11.4041,47.2692,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de nacimiento de Shirinov Iosif Denisovich </description>
+<Point>
+<coordinates>28.8638,47.0105,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de residencia de Shirinov Iosif Denisovich </description>
+<Point>
+<coordinates>-21.9426,64.1466,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de nacimiento de Edwin Harvey Arenas </description>
+<Point>
+<coordinates>-3.1883,55.9533,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de residencia de Edwin Harvey Arenas </description>
+<Point>
+<coordinates>77.2090,28.6139,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de nacimiento de Juan Guarnizo Hernandez </description>
+<Point>
+<coordinates>-0.4907,38.3460,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de residencia de Juan Guarnizo Hernandez </description>
+<Point>
+<coordinates>47.9774,29.3759,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de nacimiento de Thomas Abell Owle </description>
+<Point>
+<coordinates>100.5018,13.7563,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de residencia de Thomas Abell Owle </description>
+<Point>
+<coordinates>87.6298,41.8781,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de nacimiento de Pedro Menendez Menendez </description>
+<Point>
+<coordinates>-0.4907,38.3460,0</coordinates> 
+</Point>
+</Placemark>
+<Placemark>
+<name> Marca de posicion simple </name>
+<description> Lugar de residencia de Pedro Menendez Menendez </description>
+<Point>
+<coordinates>77.3504,25.0443,0</coordinates> 
+</Point>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+
+<html lang="es">
+  <head>
+    <meta name="author" content="Alberto Guerra Rodas" />
+    <meta name="description" content="Formulario para participar" />
+    <meta name="keywords" content="React, Formulario, Participar, Framework" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="Ejercicio7.css" />
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="Ejercicio7.js" ></script>
+
+    <title>React</title>
+  </head>
+  <body>
+    <header>
+      <h1>React</h1>
+    </header>
+    <main>
+      <section>
+        <h2>Versiones</h2>
+        <table>
+          <tr>
+            <th scope="col" id="version">Versión</th>
+            <th scope="col" id="fecha">Fecha de salida</th>
+            <th scope="col" id="cambios">Cambios Importantes</th>
+          </tr>
+          <tr>
+            <td headers="version">0.3.0</td>
+            <td headers="fecha">29/05/13</td>
+            <td headers="cambios">Salida pública oficial</td>
+          </tr>
+          <tr>
+            <td headers="version">0.5.0</td>
+            <td headers="fecha">20/10/13</td>
+            <td headers="cambios">
+              Mejora del uso de memoria, mejora de compatibilidad con Windows y
+              soporte para los eventos de selección y composición
+            </td>
+          </tr>
+          <tr>
+            <td headers="version">0.9.0</td>
+            <td headers="fecha">20/10/13</td>
+            <td headers="cambios">
+              Soporte para "crossOrigin", "download" y "hrefLang". Añadido
+              tambien soporte para los eventos "onMouseOver" y "onMouseOut"
+            </td>
+          </tr>
+
+          <tr>
+            <td headers="version">0.10.0</td>
+            <td headers="fecha">21/03/14</td>
+            <td headers="cambios">
+              Se añade la función "update" para los datos inmutables y se
+              termina de asegurar que ningún elemento "void" inserta una
+              "closing tag"
+            </td>
+          </tr>
+          <tr>
+            <td headers="version">0.13.0</td>
+            <td headers="fecha">10/03/15</td>
+            <td headers="cambios">
+              Soporte para iteradores y secuencias inmutables. Se quitan las
+              propiedades this._pendingState y this._rootNodeID
+            </td>
+          </tr>
+
+          <tr>
+            <td headers="version">16.0.0</td>
+            <td headers="fecha">26/09/17</td>
+            <td headers="cambios">
+              Mejora de la gestión de errores con la introducción de "error
+              boundaries". React dom admite atributos "non-standart". Cambios al
+              comportamiento del "scheduling" y los métodos de ciclo de vida
+            </td>
+          </tr>
+          <tr>
+            <td headers="version">17.0.0</td>
+            <td headers="fecha">20/10/20</td>
+            <td headers="cambios">
+              Añade una nueva transformacion JSX. Cambios en la delegación de
+              eventos. No introduce nuevas "features" para permitir el update
+              gradual de las versionse mas antiguas
+            </td>
+          </tr>
+
+          <tr>
+            <td headers="version">18.0.0</td>
+            <td headers="fecha">29/03/22</td>
+            <td headers="cambios">
+              React concurrente. "Batching" automático. Nuevas "Suspense
+              Features", transiciones y apis de renderizado de cliente y
+              servidor. Nuevos hooks. Nuevos comportamientos del modo estricto
+            </td>
+          </tr>
+        </table>
+      </section>
+
+    <input type = "button" value = "Oculta la tabla" onclick="man.esconderTabla()"> 
+    <input type = "button" value = "Muestra la tabla" onclick="man.mostrarTabla()">
+
+    <input type = "button" value = "Oculta el aside" onclick="man.esconderAside()"> 
+    <input type = "button" value = "Muestra el aside" onclick="man.mostrarAside()">
+
+    <input type = "button" value = "Cambiar texto aside" onclick="man.cambiarAside()"> 
+    <input type = "button" value = "Volver al texto original aside" onclick="man.revertirAside()"> 
+
+    <input type = "button" value = "Añadir Parrafo" onclick="man.añadirParrafo()"> 
+    <input type = "button" value = "Quitar Parrafo" onclick="man.quitarParrafo()"> 
+    <input type = "button" value = "Recorrer DOM" onclick="man.recorrerDom()"> 
+    <input type = "button" value = "Contar Filas y Columnas" onclick="man.contarTabla()"> 
+    </main>
+
+    <aside>
+      <h2>Dato curioso</h2>
+      <h3>"React no es un framework"</h3>
+      <p>
+        De acuerdo con el sitio web oficial de React es una biblioteca de
+        JavaScript para la construcción de interfaces de usuario, por lo que la
+        respuesta corta es que React es una biblioteca de JavaScript, pero el
+        hecho es que tiene varias características de un framework.
+      </p>
+    </aside>
+
+     
+
+    <footer>
+      <p>© 2022 Alberto Guerra Rodas</p>
+
+      <p>UO282421@uniovi.es</p>
+    </footer>
+  </body>
+</html>

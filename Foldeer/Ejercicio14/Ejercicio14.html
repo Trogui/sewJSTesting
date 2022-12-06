@@ -42,7 +42,8 @@
     <input type="button" value = "DIBUJAR" onclick="cv.dibujar()">
     <input type="button" value = "&#x26F6;" onclick="cv.canvasFullScreen()">
     </main>
-    <input type="file" onchange="cv.leerArchivo()">
+    <label for="archivoColor">Leer .json color: </label>
+    <input id ="archivoColor" type="file" onchange="cv.leerArchivo()">
     <p> Si quieres dibujar con un color custom, solo tendrás que subir un archivo .json con el formato { "color": 
         "#XXXXXX" } siendo las X el color en hexadecimal</p>
     
